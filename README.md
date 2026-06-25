@@ -167,7 +167,7 @@ Follow these steps to deploy the application locally on your machine.
 
 ---
 ### 📱 Get the App
-[**📥 Click Here to Download the Zero-Waste Portion Master APK**](Zero-Waste%20Portion%20Master.apk?raw=true)
+[**📥 Click Here to Download the Zero-Waste Portion Master APK**](https://github.com/Selvam2442/1m1b-zerowaste/raw/main/Zero-Waste%20Portion%20Master.apk)
 
 ## 🗺️ Roadmap & Future Upgrades
 
