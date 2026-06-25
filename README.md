@@ -166,6 +166,8 @@ Follow these steps to deploy the application locally on your machine.
 3. Open the `index.html` file in any modern web browser (Chrome, Edge, Safari).
 
 ---
+### 📱 Get the App
+[**📥 Click Here to Download the Zero-Waste Portion Master APK**](Zero-Waste%20Portion%20Master.apk?raw=true)
 
 ## 🗺️ Roadmap & Future Upgrades
 
